@@ -12,4 +12,5 @@ This plugin creates a Custom Tab for your LWC and a Custom Application for the C
 
 ## Usage
 
-Run the following command from your project directory, replacing 'myLWC' with the name of your LWC that you wish to preview: `sf localdev start -l myLWC`
+Run the following command from your project directory, replacing 'myLWC' with the name of your LWC that you wish to preview: 
+`sf localdev start -l myLWC`
